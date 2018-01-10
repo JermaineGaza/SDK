@@ -1,0 +1,33 @@
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\obj\x86\Debug\MegaM.Resources.resources
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\obj\x86\Debug\MegaM.vbproj.GenerateResource.Cache
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\bin\Debug\MegaM.exe
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\bin\Debug\MegaM.pdb
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\bin\Debug\MegaM.xml
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\obj\x86\Debug\MegaM.vbproj.ResolveComReference.cache
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\obj\x86\Debug\MegaM.exe
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\obj\x86\Debug\MegaM.xml
+C:\Users\Joanita\AppData\Local\Temporary Projects\MegaM\obj\x86\Debug\MegaM.pdb
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\obj\x86\Debug\MegaM.vbproj.ResolveComReference.cache
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\obj\x86\Debug\MegaM.exe
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\obj\x86\Debug\MegaM.xml
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\obj\x86\Debug\MegaM.pdb
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\bin\Debug\MegaM.exe
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\bin\Debug\MegaM.pdb
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\bin\Debug\MegaM.xml
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\obj\x86\Debug\MegaM.Resources.resources
+C:\Users\Joanita\documents\visual studio 2010\Projects\MegaM\MegaM\obj\x86\Debug\MegaM.vbproj.GenerateResource.Cache
+F:\SDK\MegaM\MegaM\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\SDK\MegaM\MegaM\obj\x86\Debug\Interop.SAPbouiCOM.dll
+F:\SDK\MegaM\MegaM\obj\x86\Debug\MegaM.vbproj.ResolveComReference.cache
+F:\SDK\MegaM\MegaM\obj\x86\Debug\MegaM.exe
+F:\SDK\MegaM\MegaM\obj\x86\Debug\MegaM.xml
+F:\SDK\MegaM\MegaM\obj\x86\Debug\MegaM.pdb
+F:\SDK\MegaM\MegaM\obj\x86\Debug\MegaM.Resources.resources
+F:\SDK\MegaM\MegaM\obj\x86\Debug\MegaM.vbproj.GenerateResource.Cache
+F:\SDK\MegaM\MegaM\bin\Debug\MegaM.exe
+F:\SDK\MegaM\MegaM\bin\Debug\MegaM.pdb
+F:\SDK\MegaM\MegaM\bin\Debug\MegaM.xml
